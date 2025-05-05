@@ -1,0 +1,1 @@
+TOGG(base_switch, 0, KC_LGUI, TO(1))
